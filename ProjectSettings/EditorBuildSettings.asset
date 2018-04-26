@@ -4,4 +4,16 @@
 EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
-  m_Scenes: []
+  m_Scenes:
+  - enabled: 0
+    path: Assets/Assets/Scenes/menu.unity
+    guid: be686bce6e4909545b907d4288a9b946
+  - enabled: 0
+    path: Assets/Assets/Scenes/position-cube.unity
+    guid: 867f8621a2dbc314a911e73acc2922ce
+  - enabled: 1
+    path: Assets/Assets/Scenes/Rigidbody-cube.unity
+    guid: a0233999620c1134a80e744c6cb62ce3
+  - enabled: 0
+    path: Assets/Assets/Scenes/Codetest.unity
+    guid: 45595ae49a3eed442952abf30c609a7c
